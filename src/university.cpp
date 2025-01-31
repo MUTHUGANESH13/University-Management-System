@@ -12,7 +12,7 @@ public:
     }
 
     void setName(string name) {
-        Name = name;
+        Name = name; 
     }
 
     void setSubject(string subject) {
